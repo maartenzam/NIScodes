@@ -9,9 +9,9 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 11013,Edegem,Edegem,Antwerpen,Anvers,Antwerpen,Anvers,Vlaams Gewest,Région flamande
 11016,Essen,Essen,Antwerpen,Anvers,Antwerpen,Anvers,Vlaams Gewest,Région flamande
 11018,Hemiksem,Hemiksem,Antwerpen,Anvers,Antwerpen,Anvers,Vlaams Gewest,Région flamande
-11021,Hove (Antwerpen),Hove (Anvers),Antwerpen,Anvers,Antwerpen,Anvers,Vlaams Gewest,Région flamande
+11021,Hove,Hove,Antwerpen,Anvers,Antwerpen,Anvers,Vlaams Gewest,Région flamande
 11022,Kalmthout,Kalmthout,Antwerpen,Anvers,Antwerpen,Anvers,Vlaams Gewest,Région flamande
-11023,Kapellen (Antwerpen),Kapellen (Anvers),Antwerpen,Anvers,Antwerpen,Anvers,Vlaams Gewest,Région flamande
+11023,Kapellen,Kapellen,Antwerpen,Anvers,Antwerpen,Anvers,Vlaams Gewest,Région flamande
 11024,Kontich,Kontich,Antwerpen,Anvers,Antwerpen,Anvers,Vlaams Gewest,Région flamande
 11025,Lint,Lint,Antwerpen,Anvers,Antwerpen,Anvers,Vlaams Gewest,Région flamande
 11029,Mortsel,Mortsel,Antwerpen,Anvers,Antwerpen,Anvers,Vlaams Gewest,Région flamande
@@ -75,7 +75,7 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 21004,Brussel,Bruxelles,Brussel-Hoofdstad,Bruxelles-Capitale,,,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
 21005,Etterbeek,Etterbeek,Brussel-Hoofdstad,Bruxelles-Capitale,,,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
 21006,Evere,Evere,Brussel-Hoofdstad,Bruxelles-Capitale,,,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
-21007,Vorst (Brussel-Hoofdstad),Forest (Bruxelles-Capitale),Brussel-Hoofdstad,Bruxelles-Capitale,,,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
+21007,Vorst,Forest,Brussel-Hoofdstad,Bruxelles-Capitale,,,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
 21008,Ganshoren,Ganshoren,Brussel-Hoofdstad,Bruxelles-Capitale,,,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
 21009,Elsene,Ixelles,Brussel-Hoofdstad,Bruxelles-Capitale,,,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
 21010,Jette,Jette,Brussel-Hoofdstad,Bruxelles-Capitale,,,Brussels Hoofdstedelijk Gewest,Région de Bruxelles-Capitale
@@ -95,14 +95,14 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 23023,Galmaarden,Gammerages,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
 23024,Gooik,Gooik,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
 23025,Grimbergen,Grimbergen,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
-23027,Halle (Halle-Vilvoorde),Hal (Hal-Vilvorde),Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
+23027,Halle,Hal,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
 23032,Herne,Herne,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
 23033,Hoeilaart,Hoeilaart,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
 23038,Kampenhout,Kampenhout,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
 23039,Kapelle-op-den-Bos,Kapelle-op-den-Bos,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
 23044,Liedekerke,Liedekerke,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
 23045,Londerzeel,Londerzeel,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
-23047,Machelen (Halle-Vilvoorde),Machelen (Hal-Vilvorde),Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
+23047,Machelen,Machelen,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
 23050,Meise,Meise,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
 23052,Merchtem,Merchtem,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
 23060,Opwijk,Opwijk,Halle-Vilvoorde,Hal-Vilvorde,Vlaams-Brabant,Brabant flamand,Vlaams Gewest,Région flamande
@@ -166,7 +166,7 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 25050,Terhulpen,La Hulpe,Nijvel,Nivelles,Waals-Brabant,Brabant wallon,Waals Gewest,Région wallonne
 25068,Mont-Saint-Guibert,Mont-Saint-Guibert,Nijvel,Nivelles,Waals-Brabant,Brabant wallon,Waals Gewest,Région wallonne
 25072,Nijvel,Nivelles,Nijvel,Nivelles,Waals-Brabant,Brabant wallon,Waals Gewest,Région wallonne
-25084,Perwijs (Nijvel),Perwez (Nivelles),Nijvel,Nivelles,Waals-Brabant,Brabant wallon,Waals Gewest,Région wallonne
+25084,Perwijs,Perwez,Nijvel,Nivelles,Waals-Brabant,Brabant wallon,Waals Gewest,Région wallonne
 25091,Rixensart,Rixensart,Nijvel,Nivelles,Waals-Brabant,Brabant wallon,Waals Gewest,Région wallonne
 25105,Tubeke,Tubize,Nijvel,Nivelles,Waals-Brabant,Brabant wallon,Waals Gewest,Région wallonne
 25107,Villers-la-Ville,Villers-la-Ville,Nijvel,Nivelles,Waals-Brabant,Brabant wallon,Waals Gewest,Région wallonne
@@ -235,7 +235,7 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 37010,Oostrozebeke,Oostrozebeke,Tielt,Tielt,West-Vlaanderen,Flandre occidentale,Vlaams Gewest,Région flamande
 37011,Pittem,Pittem,Tielt,Tielt,West-Vlaanderen,Flandre occidentale,Vlaams Gewest,Région flamande
 37012,Ruiselede,Ruiselede,Tielt,Tielt,West-Vlaanderen,Flandre occidentale,Vlaams Gewest,Région flamande
-37015,Tielt (Tielt),Tielt (Tielt),Tielt,Tielt,West-Vlaanderen,Flandre occidentale,Vlaams Gewest,Région flamande
+37015,Tielt,Tielt,Tielt,Tielt,West-Vlaanderen,Flandre occidentale,Vlaams Gewest,Région flamande
 37017,Wielsbeke,Wielsbeke,Tielt,Tielt,West-Vlaanderen,Flandre occidentale,Vlaams Gewest,Région flamande
 37018,Wingene,Wingene,Tielt,Tielt,West-Vlaanderen,Flandre occidentale,Vlaams Gewest,Région flamande
 37020,Ardooie,Ardooie,Tielt,Tielt,West-Vlaanderen,Flandre occidentale,Vlaams Gewest,Région flamande
@@ -244,7 +244,7 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 38014,Koksijde,Koksijde,Veurne,Furnes,West-Vlaanderen,Flandre occidentale,Vlaams Gewest,Région flamande
 38016,Nieuwpoort,Nieuport,Veurne,Furnes,West-Vlaanderen,Flandre occidentale,Vlaams Gewest,Région flamande
 38025,Veurne,Furnes,Veurne,Furnes,West-Vlaanderen,Flandre occidentale,Vlaams Gewest,Région flamande
-41002,Aalst (Aalst),Alost (Alost),Aalst,Alost,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
+41002,Aalst,Alost,Aalst,Alost,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 41011,Denderleeuw,Denderleeuw,Aalst,Alost,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 41018,Geraardsbergen,Grammont,Aalst,Alost,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 41024,Haaltert,Haaltert,Aalst,Alost,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
@@ -257,7 +257,7 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 42003,Berlare,Berlare,Dendermonde,Termonde,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 42004,Buggenhout,Buggenhout,Dendermonde,Termonde,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 42006,Dendermonde,Termonde,Dendermonde,Termonde,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
-42008,Hamme (Dendermonde),Hamme (Termonde),Dendermonde,Termonde,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
+42008,Hamme,Hamme,Dendermonde,Termonde,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 42010,Laarne,Laarne,Dendermonde,Termonde,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 42011,Lebbeke,Lebbeke,Dendermonde,Termonde,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 42023,Waasmunster,Waasmunster,Dendermonde,Termonde,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
@@ -282,7 +282,7 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 44036,Lovendegem,Lovendegem,Gent,Gand,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 44040,Melle,Melle,Gent,Gand,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 44043,Merelbeke,Merelbeke,Gent,Gand,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
-44045,Moerbeke (Gent),Moerbeke (Gand),Gent,Gand,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
+44045,Moerbeke,Moerbeke,Gent,Gand,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 44048,Nazareth,Nazareth,Gent,Gand,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 44049,Nevele,Nevele,Gent,Gand,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 44052,Oosterzele,Oosterzele,Gent,Gand,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
@@ -302,11 +302,11 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 45063,Lierde,Lierde,Oudenaarde,Audenarde,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 45064,Maarkedal,Maarkedal,Oudenaarde,Audenarde,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 45065,Zwalm,Zwalm,Oudenaarde,Audenarde,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
-46003,Beveren (Sint-Niklaas),Beveren (Saint-Nicolas),Sint-Niklaas,Saint-Nicolas,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
+46003,Beveren,Beveren,Sint-Niklaas,Saint-Nicolas,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 46013,Kruibeke,Kruibeke,Sint-Niklaas,Saint-Nicolas,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 46014,Lokeren,Lokeren,Sint-Niklaas,Saint-Nicolas,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 46020,Sint-Gillis-Waas,Sint-Gillis-Waas,Sint-Niklaas,Saint-Nicolas,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
-46021,Sint-Niklaas (Sint-Niklaas),Saint-Nicolas (Saint-Nicolas),Sint-Niklaas,Saint-Nicolas,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
+46021,Sint-Niklaas,Saint-Nicolas,Sint-Niklaas,Saint-Nicolas,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 46024,Stekene,Stekene,Sint-Niklaas,Saint-Nicolas,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 46025,Temse,Tamise,Sint-Niklaas,Saint-Nicolas,Oost-Vlaanderen,Flandre orientale,Vlaams Gewest,Région flamande
 51004,Aat,Ath,Aat,Ath,Henegouwen,Hainaut,Waals Gewest,Région wallonne
@@ -369,7 +369,7 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 56087,Morlanwelz,Morlanwelz,Thuin,Thuin,Henegouwen,Hainaut,Waals Gewest,Région wallonne
 56088,Sivry-Rance,Sivry-Rance,Thuin,Thuin,Henegouwen,Hainaut,Waals Gewest,Région wallonne
 57003,Antoing,Antoing,Doornik,Tournai,Henegouwen,Hainaut,Waals Gewest,Région wallonne
-57018,Celles (Doornik),Celles (Tournai),Doornik,Tournai,Henegouwen,Hainaut,Waals Gewest,Région wallonne
+57018,Celles,Celles,Doornik,Tournai,Henegouwen,Hainaut,Waals Gewest,Région wallonne
 57027,Estaimpuis,Estaimpuis,Doornik,Tournai,Henegouwen,Hainaut,Waals Gewest,Région wallonne
 57062,Pecq,Pecq,Doornik,Tournai,Henegouwen,Hainaut,Waals Gewest,Région wallonne
 57064,Péruwelz,Péruwelz,Doornik,Tournai,Henegouwen,Hainaut,Waals Gewest,Région wallonne
@@ -409,7 +409,7 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 62060,Juprelle,Juprelle,Luik,Liège,Luik,Liège,Waals Gewest,Région wallonne
 62063,Luik,Liège,Luik,Liège,Luik,Liège,Waals Gewest,Région wallonne
 62079,Oupeye,Oupeye,Luik,Liège,Luik,Liège,Waals Gewest,Région wallonne
-62093,Saint-Nicolas (Luik),Saint-Nicolas (Liège),Luik,Liège,Luik,Liège,Waals Gewest,Région wallonne
+62093,Saint-Nicolas,Saint-Nicolas,Luik,Liège,Luik,Liège,Waals Gewest,Région wallonne
 62096,Seraing,Seraing,Luik,Liège,Luik,Liège,Waals Gewest,Région wallonne
 62099,Soumagne,Soumagne,Luik,Liège,Luik,Liège,Waals Gewest,Région wallonne
 62100,Sprimont,Sprimont,Luik,Liège,Luik,Liège,Waals Gewest,Région wallonne
@@ -472,7 +472,7 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 71024,Herk-de-Stad,Herck-la-Ville,Hasselt,Hasselt,Limburg,Limbourg,Vlaams Gewest,Région flamande
 71034,Leopoldsburg,Bourg-Léopold,Hasselt,Hasselt,Limburg,Limbourg,Vlaams Gewest,Région flamande
 71037,Lummen,Lummen,Hasselt,Hasselt,Limburg,Limbourg,Vlaams Gewest,Région flamande
-71045,Nieuwerkerken (Hasselt),Nieuwerkerken (Hasselt),Hasselt,Hasselt,Limburg,Limbourg,Vlaams Gewest,Région flamande
+71045,Nieuwerkerken,Nieuwerkerken,Hasselt,Hasselt,Limburg,Limbourg,Vlaams Gewest,Région flamande
 71047,Opglabbeek,Opglabbeek,Hasselt,Hasselt,Limburg,Limbourg,Vlaams Gewest,Région flamande
 71053,Sint-Truiden,Saint-Trond,Hasselt,Hasselt,Limburg,Limbourg,Vlaams Gewest,Région flamande
 71057,Tessenderlo,Tessenderlo,Hasselt,Hasselt,Limburg,Limbourg,Vlaams Gewest,Région flamande
@@ -534,7 +534,7 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 84029,Herbeumont,Herbeumont,Neufchâteau,Neufchâteau,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
 84033,Léglise,Léglise,Neufchâteau,Neufchâteau,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
 84035,Libin,Libin,Neufchâteau,Neufchâteau,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
-84043,Neufchâteau (Neufchâteau),Neufchâteau (Neufchâteau),Neufchâteau,Neufchâteau,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
+84043,Neufchâteau,Neufchâteau,Neufchâteau,Neufchâteau,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
 84050,Paliseul,Paliseul,Neufchâteau,Neufchâteau,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
 84059,Saint-Hubert,Saint-Hubert,Neufchâteau,Neufchâteau,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
 84068,Tellin,Tellin,Neufchâteau,Neufchâteau,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
@@ -545,7 +545,7 @@ NIS,NL,FR,Arro_NL,Arro_FR,Prov_NL,Prov_FR,Reg_NL,Reg_FR
 85011,Florenville,Florenville,Virton,Virton,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
 85024,Meix-devant-Virton,Meix-devant-Virton,Virton,Virton,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
 85026,Musson,Musson,Virton,Virton,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
-85034,Saint-Léger (Virton),Saint-Léger (Virton),Virton,Virton,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
+85034,Saint-Léger,Saint-Léger,Virton,Virton,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
 85039,Tintigny,Tintigny,Virton,Virton,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
 85045,Virton,Virton,Virton,Virton,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
 85046,Habay,Habay,Virton,Virton,Luxemburg,Luxembourg,Waals Gewest,Région wallonne
